@@ -208,6 +208,8 @@ To interactively navigate the examples, visit the [Johnny-Five examples](http://
 - [LED - Matrix Demo](https://github.com/rwaldron/johnny-five/blob/master/docs/led-matrix-tutorial.md)
 - [LED - Matrix HT16K33](https://github.com/rwaldron/johnny-five/blob/master/docs/led-matrix-HT16K33.md)
 - [LED - Matrix HT16K33 16x8](https://github.com/rwaldron/johnny-five/blob/master/docs/led-matrix-HT16K33-16x8.md)
+- [LED - Draw Matrix Characters Demo](https://github.com/rwaldron/johnny-five/blob/master/docs/led-chars-demo.md)
+- [LED - Enumerate Matrix Characters & Symbols](https://github.com/rwaldron/johnny-five/blob/master/docs/led-enumeratechars.md)
 
 ### Servo
 - [Servo](https://github.com/rwaldron/johnny-five/blob/master/docs/servo.md)
@@ -223,6 +225,12 @@ To interactively navigate the examples, visit the [Johnny-Five examples](http://
 - [Servo - Animation](https://github.com/rwaldron/johnny-five/blob/master/docs/servo-animation.md)
 - [Servo - Leg Animation](https://github.com/rwaldron/johnny-five/blob/master/docs/servo-animation-leg.md)
 
+### Color
+- [Color - EVShield EV3 (Code)](https://github.com/rwaldron/johnny-five/blob/master/docs/color-EVS_EV3.md)
+- [Color - EVShield EV3 (Raw)](https://github.com/rwaldron/johnny-five/blob/master/docs/color-raw-EVS_EV3.md)
+- [Color - EVShield NXT (Code)](https://github.com/rwaldron/johnny-five/blob/master/docs/color-EVS_NXT.md)
+- [Color - ISL29125](https://github.com/rwaldron/johnny-five/blob/master/docs/color-ISL29125.md)
+
 ### Motor
 - [Motor](https://github.com/rwaldron/johnny-five/blob/master/docs/motor.md)
 - [Motor - Directional](https://github.com/rwaldron/johnny-five/blob/master/docs/motor-directional.md)
@@ -231,6 +239,8 @@ To interactively navigate the examples, visit the [Johnny-Five examples](http://
 - [Motor - H-Bridge](https://github.com/rwaldron/johnny-five/blob/master/docs/motor-hbridge.md)
 - [Motor - PCA9685](https://github.com/rwaldron/johnny-five/blob/master/docs/motor-PCA9685.md)
 - [Motor - 3 pin](https://github.com/rwaldron/johnny-five/blob/master/docs/motor-3-pin.md)
+- [Motor - EVShield EV3](https://github.com/rwaldron/johnny-five/blob/master/docs/motor-EVS_EV3.md)
+- [Motor - EVShield NXT](https://github.com/rwaldron/johnny-five/blob/master/docs/motor-EVS_NXT.md)
 
 ### Stepper Motor
 - [Stepper - Driver](https://github.com/rwaldron/johnny-five/blob/master/docs/stepper-driver.md)
@@ -243,18 +253,14 @@ To interactively navigate the examples, visit the [Johnny-Five examples](http://
 - [ESC - Bidirectional](https://github.com/rwaldron/johnny-five/blob/master/docs/esc-bidirectional.md)
 - [ESC - Bidirectional Forward-Reverse](https://github.com/rwaldron/johnny-five/blob/master/docs/esc-bidirectional-forward-reverse.md)
 
-### Sonar/Ultrasonic
-- [Ping](https://github.com/rwaldron/johnny-five/blob/master/docs/ping.md)
-- [Sonar](https://github.com/rwaldron/johnny-five/blob/master/docs/sonar.md)
-- [Sonar - Scanner](https://github.com/rwaldron/johnny-five/blob/master/docs/sonar-scan.md)
-- [Sonar - I2C SRF10](https://github.com/rwaldron/johnny-five/blob/master/docs/sonar-srf10.md)
-
 ### Button / Switch
 - [Button](https://github.com/rwaldron/johnny-five/blob/master/docs/button.md)
 - [Button - Bumper](https://github.com/rwaldron/johnny-five/blob/master/docs/button-bumper.md)
 - [Button - Options](https://github.com/rwaldron/johnny-five/blob/master/docs/button-options.md)
 - [Button - Pullup](https://github.com/rwaldron/johnny-five/blob/master/docs/button-pullup.md)
 - [Toggle Switch](https://github.com/rwaldron/johnny-five/blob/master/docs/toggle-switch.md)
+- [Button - EVShield EV3](https://github.com/rwaldron/johnny-five/blob/master/docs/button-EVS_EV3.md)
+- [Button - EVShield NXT](https://github.com/rwaldron/johnny-five/blob/master/docs/button-EVS_NXT.md)
 
 ### Keypad
 - [Keypad - VKEY](https://github.com/rwaldron/johnny-five/blob/master/docs/keypad-analog-vkey.md)
@@ -270,7 +276,7 @@ To interactively navigate the examples, visit the [Johnny-Five examples](http://
 - [Shift Register - Seven segment controller](https://github.com/rwaldron/johnny-five/blob/master/docs/shift-register-seven-segment.md)
 - [Shift Register - Seven segments, daisy chained](https://github.com/rwaldron/johnny-five/blob/master/docs/shift-register-daisy-chain.md)
 
-### Infrared (Proximity, Motion, Reflectance)
+### Infrared Reflectance)
 - [IR Motion](https://github.com/rwaldron/johnny-five/blob/master/docs/ir-motion.md)
 - [IR Proximity](https://github.com/rwaldron/johnny-five/blob/master/docs/ir-proximity.md)
 - [IR Reflectance](https://github.com/rwaldron/johnny-five/blob/master/docs/ir-reflect.md)
@@ -286,6 +292,10 @@ To interactively navigate the examples, visit the [Johnny-Five examples](http://
 - [Proximity - MB1230](https://github.com/rwaldron/johnny-five/blob/master/docs/proximity-mb1230.md)
 - [Proximity - HC-SR04](https://github.com/rwaldron/johnny-five/blob/master/docs/proximity-hcsr04.md)
 - [Proximity - LIDAR-Lite](https://github.com/rwaldron/johnny-five/blob/master/docs/proximity-lidarlite.md)
+- [Proximity - EVShield EV3 (IR)](https://github.com/rwaldron/johnny-five/blob/master/docs/proximity-EVS_EV3_IR.md)
+- [Proximity - EVShield EV3 (Ultrasonic)](https://github.com/rwaldron/johnny-five/blob/master/docs/proximity-EVS_EV3_US.md)
+- [Proximity - EVShield EV3 (IR)](https://github.com/rwaldron/johnny-five/blob/master/docs/proximity-EVS_EV3_IR-alert.md)
+- [Proximity - EVShield EV3 (Ultrasonic)](https://github.com/rwaldron/johnny-five/blob/master/docs/proximity-EVS_EV3_US-alert.md)
 
 ### Motion
 - [Motion](https://github.com/rwaldron/johnny-five/blob/master/docs/motion.md)
